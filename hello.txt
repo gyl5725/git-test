@@ -1,5 +1,5 @@
 Hello Git
 Second line
 This is dev branch
-This line is added in VS Code
+Main branch edit
 Feature branch change
