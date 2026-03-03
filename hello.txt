@@ -3,6 +3,10 @@ Second line
 This is dev branch
 Feature branch edit
 Main branch second edit
+<<<<<<< HEAD
 Feature branch change
 Another main change
 Main rebase test
+=======
+Feature rebase test
+>>>>>>> a2c718a24fe0804ff23618e7a22b212f1cabf450
